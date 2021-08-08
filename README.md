@@ -24,10 +24,10 @@ that people naturally use in email.
 
 ## Tech
 
-Testing Tool: Appium
-Language: C# (.Net Core)
-BDD Framework: SpecFlow
-Test Freamwork: NUnit
+- Testing Tool: Appium
+- Language: C# (.Net Core)
+- BDD Framework: SpecFlow
+- Test Freamwork: NUnit
 
 ## Test Results:
 
